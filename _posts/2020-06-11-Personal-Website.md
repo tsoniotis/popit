@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Personal Website"
-date:   2020-06-10
+date:   2020-06-11
 excerpt: "The first assignment from the Pop-Machina Academy was to creating a free website on GitHub. Here's what happened..."
 tag:
 - academy 
