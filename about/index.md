@@ -18,8 +18,6 @@ I'm currently working with the Municipality of Thessaloniki, on making Thessalon
 
 ![Pop-Machina logo](/assets/img/poplogo.png)
 Format: ![Alt Text](url)
-{% capture images %}
-assets/img/poplogo.png    
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
+![EU logo](/assets/img/eulogo.png)
+Format: ![Alt Text](url)
 {% include gallery images=images caption="Pop-Machina & EU logos" cols=2 %}
