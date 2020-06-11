@@ -17,4 +17,4 @@ My current activities include product innovation management and creating opportu
 I'm currently working with the Municipality of Thessaloniki, on making Thessaloniki and <a href="https://okthess.gr/en/"><b>OK!Thess</b></a> the main makers' hub for northern Greece. <a href="https://pop-machina.eu/"><b>Pop-Machina</b></a> H2020 project is our vehicle in serving the makers' community beteer in the coming years. This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No 821479”. Disclaimer notice - The contents of this website reflect the view of the Pop-Machina project. The views expressed in the website do not necessarily reflect the views of the EC.
 
 
-     ![Pop-Machina logo](/assets/img/poplogo.png "Pop-Machina") ![alt-text-2](/assets/img/eulogo.png "European Union")
+![Pop-Machina logo](/assets/img/poplogo.png "Pop-Machina") ![alt-text-2](/assets/img/eulogo.png "European Union")
