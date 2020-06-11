@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about, tsoniotis, popit]
+date: 2020-06-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://tsoniotis.github.io/popit"><b>Popit</b></a> is my personal Pop-Machina Academy assignment pad.</center>
 
 ## Features
 * Minimal, you can focus on your content
