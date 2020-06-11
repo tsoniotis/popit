@@ -18,11 +18,7 @@ I'm currently working with the Municipality of Thessaloniki, on making Thessalon
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/poplogo.png"></th>
-    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/eulogo.png"></th> 
+    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/poplogo.png" alt="Pop-Machina logo"></th>
+    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/eulogo.png" alt="EU logo"></th> 
   </tr>
 </table>
-
-<img src="https://github.com/tsoniotis/popit/raw/master/assets/img/poplogo.png">
-
-![Pop-Machina logo](<img src="https://github.com/tsoniotis/popit/raw/master/assets/img/poplogo.png">) ![EU logo](<img src="https://github.com/tsoniotis/popit/raw/master/assets/img/eulogo.png">)
