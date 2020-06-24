@@ -4,7 +4,7 @@ bio:                "Hi, I'm Nikolas, Maker Champion for the city of Thessalonik
 description:        "“Never doubt that a small group of thoughtful, committed citizens can change the world.” ― Margaret Mead"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/preview.png'
+logo:               'assets/img/mylogo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
