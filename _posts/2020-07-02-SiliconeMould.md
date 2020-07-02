@@ -32,7 +32,7 @@ So the process was very fast and the mould came out nicely as you can see in the
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/logomakingof.png" alt="logo making"></th>
+    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/moulds.png" alt="exposing the mould"></th>
  </tr>
 </table>
 
