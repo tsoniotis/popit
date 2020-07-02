@@ -17,6 +17,14 @@ In Thessaloniki we are proud to sport a vibrant startup community around the <a 
 
 Most importantly though we are heavily investing in bringing people together via masterclasses, meetups and other common activities infusing their interest and facilitating serendipitous interactions that more often than not lead to collaborative efforts.
 
+Here are some of our input to the "Pop-Machina-a circular maker community" excercise fromlast week:
+
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github.com/tsoniotis/popit/raw/master/assets/img/coggle1.png" alt="Circular Maker Community"></th>
+ </tr>
+</table>
+
 This is what we thought of doing with our makers community, which thus far has been largely disorganised and the "members" of it dispersed. So, yesterday on the 1st of July we had our first ever **SKG Makers Meetup**! It was online, which is what makers hate, but then again 30+ people gathered in total and we had some very fruitful discussions.
 
 <table style="width:100%">
