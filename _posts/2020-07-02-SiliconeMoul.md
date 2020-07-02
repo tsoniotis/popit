@@ -26,8 +26,6 @@ So in my case as you can see in the video below I used the following:
 5. A candle holder as an itme to use for the mould shape
 6. A small wooden stick for mixing
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-A1S_NyoBI" frameborder="0"> </iframe>
 
 So the process was very fast and the mould came out nicely as you can see in the following photos but there were some key learnings here for me, as I have used silicone and aseton for construction works but never to make a mould before.
