@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two ways of creating Silicone Moulds"
-date:   2020-06-11
+date:   2020-07-02
 excerpt: "When it comes to creating a mould, off the self silicone is a cheap alternative"
 tag:
 - academy 
