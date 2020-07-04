@@ -1,8 +1,12 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# They made me do it!  
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+Working with partners around Europe on making and makespaces under the PopMachina H2020 project, we are priviledged to be trained as maker champions from the Barcelona Fablab.
+
+Having said that, it's not all fun and games as we do have assignments and by representing our individual city (in my case Thessaloniki) we need to be diligent. We needed to create a website* and subsequently report our work, assignments as well as reflect on talks and presentations we participate...
+
+So...here it goes!
+
+_*below you can find more information about the theme I used)_
 
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
