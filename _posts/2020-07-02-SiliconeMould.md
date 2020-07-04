@@ -2,7 +2,7 @@
 layout: post
 title:  "Two ways of creating Silicone Moulds"
 date:   2020-07-02
-excerpt: "When it comes to creating a mould, off the self silicone is a cheap alternative"
+excerpt: "When it comes to creating a mould, off the shelf silicone is a cheap alternative"
 tag:
 - academy 
 - assignment
@@ -14,9 +14,9 @@ comments: true
 
 When it comes to creating moulds there're several ways one can go about it. 
 
-In our case <a href="https://www.notion.so/Byron-Mach-771cb40a25704056aaafd37845932169" target="_blank">Byron</a> and I decided to work with off the self silicone, which is very cheap, you can find it in any hardware store and it allows for many different techniques. So, we decided to use two different methods to showcase how anyone can do it.
+In our case <a href="https://www.notion.so/Byron-Mach-771cb40a25704056aaafd37845932169" target="_blank">Byron</a> and I decided to work with off the shelf silicone, which is very cheap, you can find it in any hardware store and it allows for many different techniques. So, we decided to use two different methods to showcase how anyone can do it.
 
-Byron worked on how one can handle silicone in the same way as a bread dough and in his website he runs you through the process. I opted for using chemicals (because mad science suits me) to work with silicone in a liquid form, the same way I would work with epoxy resin.
+Byron worked on how one can handle silicone in the same way as bread dough and in his website he runs you through the process. I opted for using chemicals (because mad science suits me) to work with silicone in liquid form, the same way I would work with epoxy resin.
 
 So, in my case as you can see in the video below I used the following:
 1. 100% Silicone, which I bought from a hardware store around the corner
@@ -28,7 +28,7 @@ So, in my case as you can see in the video below I used the following:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-A1S_NyoBI" frameborder="0"> </iframe>
 
-The process was very fast and the mould came out nicely as you can see in the following photos but there were some key learnings here for me, as I have used silicone and aceton for construction works but never to make a mould before.
+The process was very fast and the mould came out nicely as you can see in the following pictures but there were some key learnings here for me, as I have used silicone and aceton for construction works but never to make a mould before.
 
 <table style="width:100%">
   <tr>
@@ -42,6 +42,6 @@ The process was very fast and the mould came out nicely as you can see in the fo
 - Opt for paper containers... they dry out the aceton and are much easier to remove, regardless of the moulding process you follow
 - Use a respirator... chemicals are bad for you!
 
-So there you have it. Cheap and useful, off the self silicone can be very pliable and used in many ways. Give it a go and let us know how it went.
+So there you have it. Cheap and useful, off the shelf silicone can be very pliable and used in many ways. Give it a go and let us know how it went.
 
 Catch you on the next assignment gang! 
