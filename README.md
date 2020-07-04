@@ -2,7 +2,7 @@
   
 Working with partners around Europe on making and makespaces under the PopMachina H2020 project, we are priviledged to be trained as maker champions from the Barcelona Fablab.
 
-Having said that, it's not all fun and games as we do have assignments and by representing our individual city (in my case Thessaloniki) we need to be diligent. We needed to create a website* and subsequently report our work, assignments as well as reflect on talks and presentations we participate...
+Having said that, it's not all fun and games as we do have assignments and by representing our individual cities (in my case Thessaloniki) we need to be diligent. We needed to create a website* and subsequently report our work, assignments as well as reflect on talks and presentations we participate...
 
 So...here it goes!
 
